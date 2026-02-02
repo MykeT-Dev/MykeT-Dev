@@ -17,9 +17,9 @@ I treat software systems with the same high-availability standards required for 
 
 ### Current Technical Focus
 I am currently immersed in a curriculum focused on modern software standards:
-- **Languages:** Python (Object-Oriented Programming & Data Structures) 🐍
-- **Security:** Information Security principles, Secure Scripting, and PII protection 🛡️
-- **Environment:** Version Control (Git/GitHub), Linux CLI, and Virtual Environments ⚙️
+- **Languages:** Python (Object-Oriented Programming & Data Structures) 
+- **Security:** Information Security principles, Secure Scripting, and PII protection 
+- **Environment:** Version Control (Git/GitHub), Linux CLI, and Virtual Environments 
 
 ---
 
