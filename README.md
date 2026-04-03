@@ -23,8 +23,15 @@ I am currently immersed in a curriculum focused on modern software standards:
 
 ---
 
-### Featured "In-Progress" Work
-* **[Service Request Tracker](https://github.com/MykeT-Dev/service-request-tracker):** A CLI-based tool designed to manage technical service workflows using OOP and CSV persistence. (Current MVP Focus)
+## Featured Projects
+
+### Auto Parts Inventory API (In Progress)
+REST API for managing auto parts inventory with a normalized relational database.
+Focus: backend system design, API development, and data modeling.
+
+### Retail Sales Analysis Pipeline
+End-to-end data pipeline with a Streamlit dashboard for interactive analytics.
+Focus: ETL, data cleaning, SQL, and data visualization.
 
 ---
 
