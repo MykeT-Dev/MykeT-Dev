@@ -1,40 +1,89 @@
 # Michael Turza
-### Senior Service Leader | Aspiring Software Architect | Python & InfoSec Student
 
-I am a Senior Professional with 20 years of leadership experience in mission-critical service operations. I am currently bridging that expertise into Software Engineering, documenting my journey from a veteran leader to a technical builder.
-
-**This profile serves as a professional portfolio for my past, present, and future projects.**
+Software Engineering Student | Backend & Full-Stack Development | Real-World Systems Focus
 
 ---
 
-### The Professional Bridge
-I treat software systems with the same high-availability standards required for offshore and sanctuary operations. My focus is on:
-- **Reliability:** Building code that handles edge cases and stays "seaworthy".
-- **Security:** Prioritizing data integrity and user protection from the first line of code.
-- **Efficiency:** Transforming complex manual logistics into automated digital workflows.
+## Overview
+
+I am a software engineering student with a background in leading complex service operations, now focused on building production-style software systems.
+
+My work emphasizes:
+
+* structured system design before implementation
+* normalized database architecture
+* secure, role-based application design
+* real-world business logic translated into software
+
+This GitHub serves as a portfolio of projects that reflect a progression from backend systems into full-stack applications built with production-minded practices.
 
 ---
 
-### Current Technical Focus
-I am currently immersed in a curriculum focused on modern software standards:
-- **Languages:** Python (Object-Oriented Programming & Data Structures) 
-- **Security:** Information Security principles, Secure Scripting, and PII protection 
-- **Environment:** Version Control (Git/GitHub), Linux CLI, and Virtual Environments 
+## Current Focus
+
+I am actively developing skills in:
+
+* **Backend Development:** FastAPI, API design, service-layer architecture
+* **Frontend Development:** React, TypeScript, modern UI patterns
+* **Databases:** PostgreSQL, relational modeling, schema design
+* **Security:** authentication, authorization, and data protection principles
+* **Version Control & Workflow:** Git, GitHub, structured commits, and project-based development
+* **System Design & Planning:** ERDs, architecture diagrams, API design, and documentation-first development
+* **Tooling:** Linux CLI, virtual environments, and modern development workflows
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### Auto Parts Inventory API (In Progress)
-REST API for managing auto parts inventory with a normalized relational database.
-Focus: backend system design, API development, and data modeling.
+### Dealership Parts Operations Platform (In Progress)
+
+A full-stack application modeled after real dealership parts and service workflows.
+
+**Core Features:**
+
+* Public parts browsing with safe data exposure
+* Admin dashboard for inventory and operations management
+* Supplier-based cost tracking and margin calculation (internal only)
+* Inventory adjustment tracking with audit history
+* Role-based access control (public vs user vs admin)
+
+**Tech Stack:**
+
+* Frontend: React + TypeScript
+* Backend: FastAPI
+* Database: PostgreSQL
+
+This project is designed as a **production-style portfolio centerpiece**, emphasizing system design, data modeling, and real-world operational logic.
+
+---
+
+## Previous Projects
+
+### Auto Parts Inventory API
+
+REST API for managing parts inventory with a normalized relational database.
+
+Focus areas:
+
+* backend architecture
+* API design
+* data modeling
+
+---
 
 ### Retail Sales Analysis Pipeline
-End-to-end data pipeline with a Streamlit dashboard for interactive analytics.
-Focus: ETL, data cleaning, SQL, and data visualization.
+
+End-to-end data pipeline with interactive dashboard.
+
+Focus areas:
+
+* ETL workflows
+* data cleaning
+* SQL and visualization
 
 ---
 
-### Let's Connect
-- **Email:** Michael.F.Turza@gmail.com
-- **LinkedIn:** www.linkedin.com/in/michaelturza
+## Contact
+
+* Email: [Michael.F.Turza@gmail.com](mailto:Michael.F.Turza@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/michaelturza
